@@ -1,2 +1,2 @@
 # hello-world
-Teach me how to git it
+I don't git it
